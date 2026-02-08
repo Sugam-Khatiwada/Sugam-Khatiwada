@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋 I'm Sugam Khatiwada</h1>
 
 <p align="center">
-  <b>Full Stack Developer | Always learning | Open Source Enthusiast</b>
+  <b>Innovative Software Developer from Biratnagar, Nepal 🚀</b>
 </p>
 
 <p align="center">
