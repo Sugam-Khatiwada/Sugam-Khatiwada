@@ -78,7 +78,7 @@
       <img
         src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263"
         alt="Coding GIF"
-        style="display: block; width: 100%; height: 100%; object-fit: cover;"
+        style="display: block; width: 100%; height: 100%; object-fit: contain;"
       />
     </td>
   </tr>
