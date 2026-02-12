@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋 I'm Sugam Khatiwada</h1>
 
 <p align="center">
-  <b>Innovative Software Developer from Biratnagar, Nepal 🚀</b>
+  <b>Full Stack Developer | Always learning | Open Source Enthusiast</b>
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sugam-Khatiwada&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" style="display: inline-block; vertical-align: middle;" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Sugam-Khatiwada&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" style="display: inline-block; vertical-align: middle;" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/PROFILE%20VIEWS-30-ff79c6?style=for-the-badge&labelColor=141321" alt="Profile Views" style="display: inline-block; vertical-align: middle;" />
