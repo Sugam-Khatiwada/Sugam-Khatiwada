@@ -1,4 +1,4 @@
-<!-- Header Banner -->
+I<!-- Header Banner -->
 <p align="center">
   <img src="https://camo.githubusercontent.com/b4d8c86da8e9ba1d4143886ed9efe254e82b527b839f7cb7f9c4c76660b6b512/68747470733a2f2f692e6962622e636f2f794e396b4c58682f64646a6b3336732d33366537333665642d613366352d346561642d626335612d3230353561643739643861372e676966" alt="Sugam Khatiwada Banner" width="100%">
 </p>
@@ -45,6 +45,7 @@
         <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
         <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
         <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+        <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
       </td>
     </tr>
     <tr>
