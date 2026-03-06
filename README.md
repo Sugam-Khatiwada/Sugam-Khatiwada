@@ -1,4 +1,4 @@
-I<!-- Header Banner -->
+<!-- Header Banner -->
 <p align="center">
   <img src="https://camo.githubusercontent.com/b4d8c86da8e9ba1d4143886ed9efe254e82b527b839f7cb7f9c4c76660b6b512/68747470733a2f2f692e6962622e636f2f794e396b4c58682f64646a6b3336732d33366537333665642d613366352d346561642d626335612d3230353561643739643861372e676966" alt="Sugam Khatiwada Banner" width="100%">
 </p>
