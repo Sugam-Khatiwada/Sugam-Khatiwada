@@ -85,3 +85,6 @@
     </tr>
   </table>
 </div>
+<div align="center" style="margin-top: 10px;">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sugam-Khatiwada&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=4" width="97%" />
+</div>
