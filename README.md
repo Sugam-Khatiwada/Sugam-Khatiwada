@@ -74,17 +74,10 @@
       </td>
     </tr>
     <tr>
-      <td><b>Tools</b></td>
-      <td>
-        <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-        <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-      </td>
+     <td><b>Tools</b></td> <td> <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /> <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /> <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=black" /> </td>
     </tr>
         </table>
       </td>
     </tr>
   </table>
-</div>
-<div align="center" style="margin-top: 10px;">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sugam-Khatiwada&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=4" width="97%" />
 </div>
